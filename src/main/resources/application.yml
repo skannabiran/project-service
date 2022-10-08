@@ -1,0 +1,8 @@
+server:
+  port: 4015
+spring:
+  application:
+    name: project-service
+logging:
+  level:
+    com.maveric: info
